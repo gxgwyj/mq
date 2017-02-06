@@ -15,7 +15,7 @@ public class MqController {
         return "main";
      }
 	 public static void test(){
-		 
+		 System.out.println("我写过了");
 	 }
 
 }
