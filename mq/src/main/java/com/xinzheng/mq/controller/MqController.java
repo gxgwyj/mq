@@ -14,5 +14,8 @@ public class MqController {
      public String index() {
         return "main";
      }
+	 public static void test(){
+		 
+	 }
 
 }
