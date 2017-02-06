@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * rabbitMq消息传递
+ * rabbitMq消息传递(联想用户修改)
  * @author Administrator
  *
  */
